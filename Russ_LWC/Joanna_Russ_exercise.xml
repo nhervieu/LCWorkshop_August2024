@@ -226,7 +226,7 @@
 	"id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?organization_annotation_20240821101337745",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-21T16:13:37.745Z",
-	"dcterms:modified": "2024-08-21T16:13:37.745Z",
+	"dcterms:modified": "2024-08-21T16:14:22.917Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/nhervieu",
 		"@type": [

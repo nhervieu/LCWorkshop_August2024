@@ -63,10 +63,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?person_annotation_20240821095537931",
+	"id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?person_annotation_20240821095735850",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-08-21T15:55:37.931Z",
-	"dcterms:modified": "2024-08-21T15:57:35.850Z",
+	"dcterms:created": "2024-08-21T15:57:35.850Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/nhervieu",
 		"@type": [
@@ -77,7 +76,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?person_annotation_20240821095537931#Target",
+		"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?person_annotation_20240821095735850#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml",
@@ -85,13 +84,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
+			"@id": "https://leaf-writer.stage.lincsproject.ca",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?person_annotation_20240821095537931#Selector",
+			"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?person_annotation_20240821095735850#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/byline/persName"
 		}
@@ -102,11 +101,11 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
+		"@id": "https://leaf-writer.stage.lincsproject.ca",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
@@ -143,10 +142,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?rs_annotation_20240821095840800",
+	"id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?rs_annotation_20240821101045663",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-08-21T15:58:40.800Z",
-	"dcterms:modified": "2024-08-21T16:10:45.663Z",
+	"dcterms:created": "2024-08-21T16:10:45.663Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/nhervieu",
 		"@type": [
@@ -157,7 +155,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?rs_annotation_20240821095840800#Target",
+		"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?rs_annotation_20240821101045663#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml",
@@ -165,13 +163,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
+			"@id": "https://leaf-writer.stage.lincsproject.ca",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?rs_annotation_20240821095840800#Selector",
+			"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?rs_annotation_20240821101045663#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p[2]/rs"
 		}
@@ -182,11 +180,11 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
+		"@id": "https://leaf-writer.stage.lincsproject.ca",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	},
 	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
@@ -223,10 +221,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?organization_annotation_20240821101337745",
+	"id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?organization_annotation_20240821101422917",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-08-21T16:13:37.745Z",
-	"dcterms:modified": "2024-08-21T16:14:22.917Z",
+	"dcterms:created": "2024-08-21T16:14:22.917Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/nhervieu",
 		"@type": [
@@ -237,7 +234,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?organization_annotation_20240821101337745#Target",
+		"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?organization_annotation_20240821101422917#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml",
@@ -245,13 +242,13 @@
 			"dc:format": "text/xml"
 		},
 		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
+			"@id": "https://leaf-writer.stage.lincsproject.ca",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.5.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?organization_annotation_20240821101337745#Selector",
+			"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?organization_annotation_20240821101422917#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/p[2]/orgName"
 		}
@@ -262,12 +259,92 @@
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
+		"@id": "https://leaf-writer.stage.lincsproject.ca",
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.5.0"
+		"schema:softwareVersion": "3.6.0"
 	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?person_annotation_20240821104025289",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-08-21T16:40:25.289Z",
+	"dcterms:modified": "2024-08-21T16:40:25.289Z",
+	"dcterms:creator": {
+		"@id": "",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Natalie Hervieux"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?person_annotation_20240821104025289#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.stage.lincsproject.ca",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?person_annotation_20240821104025289#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[2]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/7096156565732323500004/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.stage.lincsproject.ca",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:unknown"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -297,7 +374,7 @@
             "But, Doctor, doesn’t that violate Finagle's Constant?" I staggered to the bathroom,
             released floods of tea, and returned to the kitchen to talk. It was professional talk.
             It left me grey-faced and with such concentration that I began to develop a headache. We
-            talked about <orgName key="Mary Ann Evans" ref="http://www.wikidata.org/entity/Q112902059">Mary Ann Evans</orgName>'s loss of faith, about Emily Bronté's isolation, about
+            talked about <orgName key="Mary Ann Evans" ref="http://www.wikidata.org/entity/Q112902059">Mary Ann Evans</orgName>'s loss of faith, about <persName key="Brontë, Maria, 1814-1825" ref="http://viaf.org/viaf/7096156565732323500004/" cert="unknown">Emily Bronté</persName>'s isolation, about
             Charlotte Bronté's blinding cloud, about the split in Virginia Woolf's head and the
             split in her economic situation. We talked about Lady Murasaki, who wrote in a form that
             no respectable man would touch, Hroswit, a little name whose plays may perhaps amuse

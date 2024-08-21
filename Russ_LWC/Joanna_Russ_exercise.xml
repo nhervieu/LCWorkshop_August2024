@@ -191,6 +191,85 @@
 	"cwrc:hasCertainty": "cwrc:Unknown"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?correction_annotation_20240821095913786",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-08-21T15:59:13.786Z",
+	"dcterms:modified": "2024-08-21T15:59:13.786Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/nhervieu",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Natalie Hervieux"
+	},
+	"oa:motivatedBy": "oa:editing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?correction_annotation_20240821095913786#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.5.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/nhervieu/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?correction_annotation_20240821095913786#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[2]/choice"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:Correction",
+		"dc:format": "text/xml",
+		"rdf:value": "dad"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.5.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
          <projectDesc>
             <p>This encoded file was created by Diane Jakacki and made available for a Linked
@@ -211,7 +290,7 @@
          <p>I don't remember. We talked so hard and sat so still that I got cramps in my knees. We
             had too many <rs key="Three cups of tea" ref="http://viaf.org/viaf/2518154387378430970003/" type="http://sparql.cwrc.ca/ontology/cwrc#TextLabels" cert="Unknown">cups of tea</rs> and then didn't want to leave the table to go to the bathroom
             because we didn’t want to stop talking. You will think we talked of revolution but we
-            didn't. Nor did we talk of our own souls. Nor of sewing. Nor of babies. Nor of
+            didn't. Nor did we talk of our own souls. Nor of sewing. Nor <choice change="asdcas"><sic>of babies. Nor</sic><corr>dad</corr></choice> of
             departmental intrigue. It was politics if by politics you mean the laboratory talk that
             characters in bad movies are perpetually trving to convey (unsuccessfully) when they
             Wrinkle Their Wee Brows and say (valiantly—dutifully—after all, they didn’t write it)
